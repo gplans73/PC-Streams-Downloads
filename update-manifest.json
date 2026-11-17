@@ -1,0 +1,9 @@
+{
+  "versionName": "1.9.102-dev",
+  "versionCode": 133,
+  "releaseChannel": "beta",
+  "apkUrl": "https://github.com/gplans73/PC-Streams/releases/download/v1.9.102-dev/app-standard-debug.apk",
+  "sha256": "REPLACE_WITH_ACTUAL_SHA256",
+  "releaseNotes": "Catalogue recovery, performance fixes, and diagnostics improvements.",
+  "minimumSupportedVersionCode": 129
+}
