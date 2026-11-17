@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.102-dev",
-  "versionCode": 133,
+  "versionName": "1.9.103-dev",
+  "versionCode": 134,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.102-dev/app-standard-debug.apk",
-  "sha256": "4e65955a2da79f6cb6cbebb6584d35b4a3da2cb17975d49bb20423937d0aa742",
-  "releaseNotes": "Catalogue recovery, performance fixes, and diagnostics improvements.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.103-dev/app-standard-debug.apk",
+  "sha256": "06f3a81e08d4029f2fd48a5dd89b79caad9b85f28245a18d5219ec937b6668c9",
+  "releaseNotes": "Test build for update verification. Includes catalogue recovery, performance fixes, and diagnostics.",
   "minimumSupportedVersionCode": 129
 }
