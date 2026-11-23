@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.131-dev",
-  "versionCode": 163,
+  "versionName": "1.9.132-dev",
+  "versionCode": 164,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.131-dev/app-standard-debug.apk",
-  "sha256": "e0b5b1ea88d0165fb35cc2c4917b2f96f61a6caaaa41987ecd1c7e10187ea63a",
-  "releaseNotes": "Fixed Fire TV 4K playback and audio interruptions, profiles returning after deletion, and play/pause controls during buffering.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.132-dev/app-standard-debug.apk",
+  "sha256": "2471205b6304f915d1e7984c32663e463c4bc4712a2c8b56f83711cbeadcbf3b",
+  "releaseNotes": "Encrypted per-profile IPTV logins, sources, guide feeds and settings now restore when you sign in on a new TV. Favourites, watched history and episode progress continue syncing per profile. Update and Sync now on the configured TV first.",
   "minimumSupportedVersionCode": 129
 }
