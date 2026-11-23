@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.104-dev",
-  "versionCode": 135,
+  "versionName": "1.9.131-dev",
+  "versionCode": 163,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.104-dev/app-standard-debug.apk",
-  "sha256": "61ad455060da29c7edb504ca1173686e7dbbe1a99b013f3228ea666cd9f6be6d",
-  "releaseNotes": "Test build for update verification. Includes catalogue recovery, performance fixes, and diagnostics.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.131-dev/app-standard-debug.apk",
+  "sha256": "e0b5b1ea88d0165fb35cc2c4917b2f96f61a6caaaa41987ecd1c7e10187ea63a",
+  "releaseNotes": "Fixed Fire TV 4K playback and audio interruptions, profiles returning after deletion, and play/pause controls during buffering.",
   "minimumSupportedVersionCode": 129
 }
