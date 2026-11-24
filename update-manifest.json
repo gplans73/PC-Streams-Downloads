@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.133-dev",
-  "versionCode": 165,
+  "versionName": "1.9.134-dev",
+  "versionCode": 166,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.133-dev/app-standard-debug.apk",
-  "sha256": "dfe1a27220e08200a6aefd5a17e32edeeb118bacd0099ff878fad4cc0dbc3222",
-  "releaseNotes": "Adds first-generation Fire TV Stick 4K / Fire OS6 compatibility while retaining encrypted cloud profiles, IPTV logins, settings, favourites and viewing progress. Tested on both older and newer FireSticks.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.134-dev/app-standard-debug.apk",
+  "sha256": "cab4c4eff47115631eb09009bb7a2b8c4cead9fd4d1b4e4b4edb3932953c13fc",
+  "releaseNotes": "Faster movie startup, corrected PCM audio output, improved bounded 4K buffering and more accurate diagnostics. Retains Fire OS 6 compatibility and encrypted cloud sources, passwords, settings, favourites and viewing progress. Very high-bitrate 4K copies can still buffer when connection delivery is below the movie bitrate.",
   "minimumSupportedVersionCode": 129
 }
