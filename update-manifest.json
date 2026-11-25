@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.134-dev",
-  "versionCode": 166,
+  "versionName": "1.9.136-dev",
+  "versionCode": 168,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.134-dev/app-standard-debug.apk",
-  "sha256": "cab4c4eff47115631eb09009bb7a2b8c4cead9fd4d1b4e4b4edb3932953c13fc",
-  "releaseNotes": "Faster movie startup, corrected PCM audio output, improved bounded 4K buffering and more accurate diagnostics. Retains Fire OS 6 compatibility and encrypted cloud sources, passwords, settings, favourites and viewing progress. Very high-bitrate 4K copies can still buffer when connection delivery is below the movie bitrate.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.136-dev/app-standard-debug.apk",
+  "sha256": "1f0e918c898a1f4018928bd3eccb16b6e265bba1f4837a09d44abd60e6d65201",
+  "releaseNotes": "Enables largeHeap for 4K Max devices, raises 4K ExoPlayer buffer target up to 96 MiB with an 8s/10s pre-buffer cushion, and fixes live background visibility. Retains Fire OS 6 compatibility and encrypted cloud profiles.",
   "minimumSupportedVersionCode": 129
 }
