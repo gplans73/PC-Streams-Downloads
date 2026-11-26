@@ -1,9 +1,9 @@
 {
-  "versionName": "1.9.138-dev",
-  "versionCode": 170,
+  "versionName": "1.9.139-dev",
+  "versionCode": 171,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.138-dev/app-standard-debug.apk",
-  "sha256": "57b6cd3014d91e68935c37ba0c06808c73a8777528cdf44ff7646d485081638d",
-  "releaseNotes": "Fixes Fire TV remote Play/Pause button double-toggling playback, raises ExoPlayer VOD buffer duration ceiling to 60s (bounded by 96 MiB), and raises MPV auto-resume wait to 3s. Retains Fire OS 6 compatibility and encrypted cloud profiles.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.139-dev/app-standard-debug.apk",
+  "sha256": "51de0037a2ce845f7e0d7cbafd01b5cd17cfd63cabf2b8a0aec0fe4124e3230b",
+  "releaseNotes": "Raises 1080p ExoPlayer buffer target from 16 MiB to 64 MiB (with 5s/8s pre-buffer) so high-bitrate 1080p Blu-ray remuxes (like DTS-HD series) don't stall after 4 seconds. Includes Fire TV Play/Pause fix, 96 MiB 4K buffer target, and 60s VOD buffer ceiling.",
   "minimumSupportedVersionCode": 129
 }
