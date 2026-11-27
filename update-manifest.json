@@ -1,9 +1,23 @@
 {
-  "versionName": "1.9.142-dev",
-  "versionCode": 174,
+  "versionName": "1.9.171-dev",
+  "versionCode": 203,
   "releaseChannel": "beta",
-  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.142-dev/app-standard-debug.apk",
-  "sha256": "a4596cf5982b4dc48bfd6becb9b15b0d17561f2c06c2495540fc7e1d529acf25",
-  "releaseNotes": "Fixes crash when playing TV episodes without intro timestamps in TheIntroDB. Includes Volume Levelling enabled by default, Skip Intro button for TV episodes, 64 MiB 1080p / 96 MiB 4K buffer targets, and Fire TV Play/Pause fix.",
+  "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.171-dev/app-standard-family.apk",
+  "sha256": "a6eb1fb50a3b4683fed4f007b53969435bb0048e5ce8661efbb1d719a175724b",
+  "apks": {
+    "arm64-v8a": {
+      "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.171-dev/app-standard-family.apk",
+      "sha256": "a6eb1fb50a3b4683fed4f007b53969435bb0048e5ce8661efbb1d719a175724b"
+    },
+    "armeabi-v7a": {
+      "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.171-dev/app-arm32-family.apk",
+      "sha256": "41d4d7749eb72697faf095f44a72146439825e74dcaf4fe1e93015b5c337b348"
+    },
+    "universal": {
+      "apkUrl": "https://github.com/gplans73/PC-Streams-Downloads/releases/download/v1.9.171-dev/app-standard-family.apk",
+      "sha256": "a6eb1fb50a3b4683fed4f007b53969435bb0048e5ce8661efbb1d719a175724b"
+    }
+  },
+  "releaseNotes": "Build 203 (1.9.171-dev): Complete PC Streams branding, cinematic Movies & TV Shows grids, instant keyless backdrop/metadata prefetching, TMDB-to-public-catalog fallback, masked API keys with format validation, and longer OTA download timeouts.",
   "minimumSupportedVersionCode": 129
 }
